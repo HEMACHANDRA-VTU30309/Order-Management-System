@@ -82,3 +82,37 @@ Displays:
 
 ## 📂 Project Structure
 
+Order-Management-System/
+│
+├── schema.sql
+├── sample_data.sql
+├── queries.sql
+└── README.md
+
+
+---
+
+## 🎯 Learning Outcomes
+
+- Designing normalized relational databases  
+- Writing optimized SQL queries  
+- Understanding multi-table relationships  
+- Applying business logic using SQL  
+
+---
+
+## 🔮 Future Enhancements
+
+- Add Payment table  
+- Implement Stock auto-update trigger  
+- Stored Procedures for order processing  
+- Integrate with Java / Spring Boot  
+- Add reporting dashboard  
+
+---
+
+## 👨‍💻 Author
+
+**Hemachandra Talluri**  
+Aspiring Full Stack Developer | SQL & Java Enthusiast  
+
